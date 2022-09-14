@@ -27,3 +27,4 @@ console.log('Which topic should we study first?');
 selectTopic();
 
 /*having some difficulty merging this branch to main via bash*/
+/*getting frustrated*/
